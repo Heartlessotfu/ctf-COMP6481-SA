@@ -1,0 +1,4 @@
+It appears that display info calls a function, I wonder if you can overwrite
+this function with an address of your own choosing.
+
+This is a use-after-free exploit (heap expoitation). 

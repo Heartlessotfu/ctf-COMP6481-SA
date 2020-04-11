@@ -1,0 +1,2 @@
+What happens if you select an id then then remove it?
+Can you still read the info in it?

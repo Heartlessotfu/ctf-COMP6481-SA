@@ -1,0 +1,6 @@
+You did a little bit of research into the people you intercepted the message from, turns out they really like a tv show called avatar the last airbender. I wonder if this is the topic that the ciphertext actually decrypts to? 
+
+
+
+
+Try looking at the first letter of every word in the recipe excluding the title.Do any of the letters repeat? If not, how can it be used as part of the encoding technique? If the letters do repeat, what information does that give away regarding the key?  

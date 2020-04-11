@@ -1,0 +1,2 @@
+This image appears to be bigger than it needs to be.
+I wonder if flag can be extracted from this extra data?

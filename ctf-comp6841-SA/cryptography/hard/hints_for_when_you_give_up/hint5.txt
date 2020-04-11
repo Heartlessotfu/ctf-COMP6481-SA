@@ -1,0 +1,10 @@
+The method used to encode this was a hybrid of a vigenere cipher and
+a substitution cipher. Instead of your regular table that you 
+would normally solve a vigenere cipher with, the alphabet has been changed to
+be something other than abcdefghijklmnopqrstuvwxyz. This new alphabet is
+embedded within the recipe file. So that the table you usually associate with
+the cipher has the shuffled alphabet on the top row and first column instead of 
+the regular alphabet. 
+
+After you obtain this, you can break the code and grab the key with the known
+method of breaking vigenere ciphers. 

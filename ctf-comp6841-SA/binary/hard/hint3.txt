@@ -1,0 +1,3 @@
+Trying creating a burger, select its id and the remove it. 
+Create a drink where it's volume is x08000001. 
+Now call display info of the burger that you selected. 

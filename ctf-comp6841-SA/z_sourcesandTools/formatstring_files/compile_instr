@@ -1,0 +1,1 @@
+gcc -fno-stack-protector -fno-pie -m32 -D_FORTIFY_SOURCE=0 -Ttext 0x08010000 -no-pie -o flag flag.c

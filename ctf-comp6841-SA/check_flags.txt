@@ -1,0 +1,30 @@
+Once you have found your flag, hash it with SHA3-256 and check the hash
+against the one here. 
+https://emn178.github.io/online-tools/sha3_256.html
+
+All flags are in format FLAG{<insert_text_here>}.
+
+Binary
+easy: 52396e0cb5deb8f2844712a8c3c3a19ebad66da84a3735babbc90e248195b0c4
+medium: a73ac1e79f85f2f789dfa2ebff25290f3e3b50430ea3d10c3b6e99ba815f70d0
+hard: 76dfebab6df517ee5e0e3049c7dd8de5d00cc84d310f0f7a29a23f8ffe53a047
+
+Steganography
+easy: 7ad829ff2aea309df9bcafed792dfc1a09353f67958c19b465bf1d70e08e47a0
+medium: f134ef196d7c7ddff6c472b86472f432b2aeef61890357f05667be550a7ceca5
+hard: 3477f1a0a9e3abd7bfc9f372172eef183aa38f3f9738cc358030fa611b425733
+
+Reverse Engineering
+easy: 504dc61675dbe7b3835e56111510f81b31c004e3b63b81e4dc4f86b5802c3d7e
+medium: 7482e0ae8b11dc5f5fc8c8f4edebaf66453ea61178e0a34c609cbe4fc9e06217
+hard: c826dcfc2409656626a3675cc596dd11b23ee804671ea5c47519abc72ced1e32 
+
+Cryptography
+easy: a5378581145a92d7a1e6d2346038652cb550a9fd94d540f860cd66e6e54826d6
+medium: fc89c97cb0690a34526b009c9819166550a12a281b3bc6ecc96040fba0bdd565
+hard: 5ecac457498bf4541decd2a0ea6d6a5acbdbae9b701426aa9836699f98b98186
+
+Forensics
+easy: db03002e775f86a9e223bd63ebeab2fa5ef449cd586635c20b350630f952eeec
+medium: aac506889c458ff3b5d76b8ba4a207355127bbf3274987be4441a02c6d58ecba
+hard: fac2c5c88d3b998286a9859a0e2ba6cf9bfa462cc1a2a22aac42da4b0e45dd15

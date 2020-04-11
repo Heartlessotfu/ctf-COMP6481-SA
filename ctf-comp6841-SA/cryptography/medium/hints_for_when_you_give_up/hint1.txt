@@ -1,0 +1,1 @@
+This was encrypted using a block cipher, can you figure out how long each block is?

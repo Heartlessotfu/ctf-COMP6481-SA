@@ -1,0 +1,2 @@
+This was encrypted using a substitution cipher. 
+Finding letter frequencies might also help with finding the flag.

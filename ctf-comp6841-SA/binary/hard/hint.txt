@@ -1,0 +1,2 @@
+Take a look at the id of being assigned to burgers and drinks.
+It doesn't seem like they are being reused even after an item is removed.

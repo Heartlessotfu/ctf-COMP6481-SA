@@ -1,0 +1,1 @@
+The key is 8 letters long, try performing a frequency anaylsis on the ciphertext for every 8th letter. 

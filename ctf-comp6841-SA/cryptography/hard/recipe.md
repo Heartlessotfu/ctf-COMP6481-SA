@@ -30,8 +30,8 @@ Steps:
 2. Halve kiwis and place fruit, brown sugar and lemon peel and zest into a pan
 3. Enrich the flavors by bringing the pan up to a boil
 4. When the mixture has boiled, turn down the heat and keep stirring the mixture until all the fruit breaks down.
-5. Just as the fruit breaks down, take the mixture off the heat. 
-6. Let mixture cool to room temperature. 
+5. Let mixture cool to room temperature. 
+6. Just as the fruit breaks down, take the mixture off the heat. 
 7. Take your egg and oil and beat them together. Blend together flour, baking powder and salt. 
 8. Add the baking soda to the cooked kiwi mixture and stir until bubbles form. Add this to the egg mixture and then add the flour mixture to it. 
 9. You want the final combined mixture to be fully combined so stir gently until you can't see anymore dry ingredients. 

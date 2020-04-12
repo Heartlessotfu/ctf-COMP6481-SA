@@ -1,2 +1,3 @@
 Looks like the flag is there but it's being covered by all the black. 
-I wonder if you can make the flag any clearer? This is an 8-bit png image
+I wonder if you can make the flag any clearer? This is an 8-bit indexed png
+image

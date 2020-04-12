@@ -1,1 +1,1 @@
-Have a look at the kasiski test, this might help you figure out how long the key is
+Have a look at the kasiski and Friedman's test, this might help you figure out how long the key is

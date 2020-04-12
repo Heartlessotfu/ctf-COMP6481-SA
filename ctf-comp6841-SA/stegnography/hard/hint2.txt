@@ -1,1 +1,1 @@
-I wonder if you can hide any information in the bits representing an image
+I wonder if you can hide any information in the rgb bits that make up this image
